@@ -1,3 +1,10 @@
+// This code is for a temperature and humidity monitoring station that
+// contains a DHT22 sensor for measureing temperature and humidity,
+// an LCD display to display the current temperature and humidity values,
+// and a servo-driven pointer (user supplied) indicating a "comfort index".
+// The code is derived from a tutorial developed by Build, RVA in Richmond, Virginia.
+
+// >>>> Original Description <<<<<
 // The code for the temperature & humidity arduino learning station:
 //  This is a simple code for use with an Arduino Uno, SG90 servo motor, a DHT temperature and humidity sensor, and a 16x2 LCD Shield
 //  It goes along with a 3D printed sensor play stand from Build, RVA.  
